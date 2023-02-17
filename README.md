@@ -40,7 +40,7 @@ and then add it to the script **under Set-Variable -name Honeypot_accounts -Valu
    
    and then run our script and check the result. 
    
-      _________
+  _________
 
 * special thanks to **@Faisal Alasmari** for  his collaboration and help. 
 
