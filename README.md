@@ -35,9 +35,12 @@ and then add it to the script **under Set-Variable -name Honeypot_accounts -Valu
    The script will detect the normal kerbrerasting attack , to do keberoasying attack in your enviroment tou can use any tool such as Rubeus using the following command: 
    
    
-   *** .\Rubeus.exe kerberoast /outfile:shashes.kerberoast***
+   ***  .\Rubeus.exe kerberoast /outfile:shashes.kerberoast ***
    
    
    and then run our script and check the result. 
    
+
+* special thanks to @Faisal Alasmari for  his collaboration and help. 
+
 
