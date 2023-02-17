@@ -21,9 +21,9 @@ We will use the script to collect, check and notify if there was any potential k
 
 * Add SPN to the  Honeypot services account 
 
-***setspn –A sqlserver/CST.LAB***
+   ***setspn –A sqlserver/CST.LAB***
 
-***sql1 setspn –Q */* | findstr sql***
+   ***sql1 setspn –Q */* | findstr sql***
 
 and then add it to the script **under Set-Variable -name Honeypot_accounts -Value @(**
 
