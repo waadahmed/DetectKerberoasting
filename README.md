@@ -45,3 +45,11 @@ and then add it to the script **under Set-Variable -name Honeypot_accounts -Valu
 * special thanks to **@Faisal Alasmari** for  his collaboration and help. 
 
 
+  _________
+  
+Waad Albayyali 
+
+waadalbyalii5@gmail.com 
+
+
+
